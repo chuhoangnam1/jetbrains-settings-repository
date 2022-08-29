@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="13.215.45.128" id="9956530d-71c7-4b63-b253-d0524a571405" keyPath="$USER_HOME$/Workspace/seal-commerce/gempages/gempages-servers-tester.pem" port="22" customName="GP Dev - Admin Server" nameFormat="CUSTOM" username="gempages-user" useOpenSSHConfig="true">
+        <option name="customName" value="GP Dev - Admin Server" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

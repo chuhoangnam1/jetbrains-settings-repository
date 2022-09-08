@@ -4,4 +4,40 @@
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="TypeScript.ts.chain.hints" />
+        <option value="TypeScript.ts.type.hints" />
+        <option value="ruby.rbs.ruby.attribute.type.hints" />
+        <option value="ruby.rbs.ruby.constant.type.hints" />
+        <option value="ruby.rbs.ruby.container.type.hints" />
+        <option value="ruby.rbs.ruby.global.variable.type.hints" />
+        <option value="ruby.rbs.ruby.parameter.type.hints" />
+        <option value="ruby.rbs.ruby.return.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="TypeScript.ts.enum.hints" />
+    <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </JavaScript.js.type.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+    </settingsMapElement>
+  </component>
 </application>
